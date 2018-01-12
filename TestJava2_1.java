@@ -1,7 +1,7 @@
 //TestJava2_1.java,Java的简单范例
 public class TestJava2_1
 {
-public static void main(Sting args)
+public static void main(Sting args[])
   {
   int num;//声明一个整形变量num
   num=3;//将整形变量赋值为3
