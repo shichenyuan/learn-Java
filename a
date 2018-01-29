@@ -1,0 +1,9 @@
+public class TestJava5_3
+{
+  public static void main(String args[])
+  {
+    int int_max=java.lang.Integer.MAX_VALUE;//得到整形的最大值
+    //int int_max=Integer.MAX_VALUE;//与上一句工能相同
+    System.out.println("INT的最大值"+int_max);
+  }
+}
