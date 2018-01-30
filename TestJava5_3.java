@@ -7,3 +7,14 @@ public class TestJava5_3
     System.out.println("INT的最大值"+int_max);
   }
 }
+//
+public class ShortDemo2
+{
+  public static void main(String args[])
+  {
+    int max=Integer.MAX_VALUE;//
+    int min=Integer.MIN_VALUE;//
+    System.out.println(max);
+    Ststem.out.println(min);
+  }
+}
