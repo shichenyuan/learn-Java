@@ -12,9 +12,12 @@ public class ShortDemo2
 {
   public static void main(String args[])
   {
-    int max=Integer.MAX_VALUE;//
-    int min=Integer.MIN_VALUE;//
-    System.out.println(max);
-    Ststem.out.println(min);
+    int max=Integer.MAX_VALUE;//取得int的最大值
+    int min=Integer.MIN_VALUE;//取得int的最小值
+    System.out.println(max);//最大值：
+    Ststem.out.println(min);//最小值：
+    System.out.println(max+1);//得到最小值
+    System.out.println(max+2);//相当于最小值+1
+    System.out.println(min-1);//得到最大值
   }
 }
